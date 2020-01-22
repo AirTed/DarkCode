@@ -5,7 +5,7 @@
 ## 目录列表
 
 ### CreateA404ErrorPageUsing
-   ##### 透视的404错误页面（HTML&CSS）  
+	中文名：透视的404错误页面（HTML&CSS）
 
 - 演示： https://qt1wy.csb.app/ 
 - 视频： https://www.bilibili.com/video/av79476984/ 
@@ -13,7 +13,7 @@
 - [项目传送门](https://github.com/AirTed/DarkCode/tree/master/CreateA404ErrorPageUsing)
 
 ### SimpleAccordionMenuWith
-   ##### 简单设计一个手风琴菜单（HTML&CSS）  
+	中文名：简单设计一个手风琴菜单（HTML&CSS） 
 
 - 演示： https://oy2pp.csb.app/ 
 - 视频： https://www.bilibili.com/video/av78537400/ 
